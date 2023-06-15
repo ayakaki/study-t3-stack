@@ -19,6 +19,7 @@ export const Auth = () => {
 
   return (
     <div>
+      <h2>develop ENV</h2>
       <div className="container mx-auto mb-12">
         <button
           className="rounded bg-blue-600 px-4 py-2 font-bold text-white hover:bg-blue-800"
